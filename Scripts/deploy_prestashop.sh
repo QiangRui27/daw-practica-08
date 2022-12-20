@@ -68,7 +68,7 @@ apt-get install php-zip php-simplexml
 chown -R www-data:www-data /var/www/html
 
 rm -rf /var/www/html/php-cs-fixer.dist.php
-rm -rf prestashopfull
-rm -rf prestashopfull.zip
+rm -rf /tmp/prestashopfull
+rm -rf /tmp/prestashopfull.zip
 
 rm -rf /var/www/html/install
