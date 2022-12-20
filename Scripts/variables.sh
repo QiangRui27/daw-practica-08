@@ -11,3 +11,6 @@ DB_PASSWORD=DB_PASSWORD
 
 WP_HOME=https://practicaprestashop8.hopto.org
 WP_SITEURL=https://practicaprestashop8.hopto.org/prestashop
+
+DB_SERVER=172.31.79.78
+PASSWORD=@123456789
